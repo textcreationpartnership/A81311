@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reasons humbly offered to the Honourable House of Commons, to hear the petitioner John Dennis, when the report of the Q's and R's shall be read.</title>
+            <author>Dennis, John, 1657-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81311</idno>
+            <idno type="STC">Wing D1044A</idno>
+            <idno type="STC">ESTC R224674</idno>
+            <idno type="EEBO-CITATION">45097655</idno>
+            <idno type="OCLC">ocm 45097655</idno>
+            <idno type="VID">171258</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171258)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reasons humbly offered to the Honourable House of Commons, to hear the petitioner John Dennis, when the report of the Q's and R's shall be read.</title>
+                  <author>Dennis, John, 1657-1734.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Pay, allowances, etc.</term>
+               <term>Sailors --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="reasons">
+            <pb facs="tcp:171258:1" rendition="simple:additions"/>
+            <head>SOME REASONS Humbly Offered to the Honourable Houſe of Commons, To Hear the Petitioner
+<hi>John Dennis,</hi> when the Report of the <hi>Q</hi>'s and <hi>R</hi>'s ſhall be Read.</head>
+            <p n="1">I. THE Report was made or at leaſt compoſed without hearing the Petitioner's Complaints.</p>
+            <p n="2">II. The Petitioner hopes to prove the <hi>Report</hi> is not ſo much in the Seamen's Favour as the Merits of their Caſe would bear.</p>
+            <p n="3">III. Three Hardſhips only, as the Cauſe of the Seamen's Miſeries are cautiouſly confeſſed, (<hi>viz. Turning them over, Lending them,</hi> and <hi>Want of Pay</hi>) but many more and weighty ones are omitted.</p>
+            <p n="4">IV. The Petitioner doubts not but to make it appear that the Diſcipline of the Navy has greatly differed from the ſaid <hi>Report.</hi>
+            </p>
+            <p n="5">V. The Petitioner's Complaint was not againſt <hi>Q's</hi> and <hi>R</hi>'s only, or prin<g ref="char:EOLhyphen"/>cipally, but the Intent of his Petition was, That this Honourable Houſe would be pleaſed to conſider whether it is not neceſſary to eſtabliſh (by good and wholeſome Laws) the Diſcipline of the Navy, that the Strength, Wealth and Honour of the Nation may be preſerved thereby.</p>
+            <p n="6">VI. The Petitioner believes it may be worthy the Conſideration of this Honourable Houſe, whether the <hi>Q</hi>'s as deſcribed in the <hi>Report</hi> are not great Hardſhips: It being acknowledged, That all Men ſet on Shore ſick before the 23d of <hi>March</hi> 1690, were thereby diſcharged from the Service, and Tickets were principally intended for that purpoſe (<hi>Vide Article</hi> 16. <hi>of the Lord High Admirals Inſtructions to Captains</hi>) but by this new Order, when they are ſet Sick on Shore, unleſs they return to the Ships from whence they came, or to ſome other of His Majeſty's Ships, immediately after they are diſcharged from ſick Quarters, they are and (as the <hi>Report</hi> expreſſes it) have been eſteemed as Deſerters, and as ſuch by the Act of Parliament mentioned in the ſaid
+<hi>Report,</hi> are liable to be puniſhed with Death, which Act has ſeveral times been put in Execution againſt Deſerters during the late War.</p>
+            <p n="7">VII. The <hi>Report</hi> of the Petitioners having bought the Money of ſeveral that are Queried and Run, and his encouraging the Women to attend this Honourable Houſe, are equally groundleſs; he never having bought, or is now intereſted one Penny in the one, nor did ever aſſociate himſelf with, or en<g ref="char:EOLhyphen"/>courage the others: But on the contrary hath adviſed them to be moderate, and aſſured them that their Clamorous Proceedings would prejudice their Cauſe.</p>
+            <closer>
+               <signed>J. D.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:171258:2" rendition="simple:additions"/>
+            <head>The ADDRESS preſented to the Lords of the Admiralty in <hi>Feb. 1698/9.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>Sect. I.</head>
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>BEing employ'd by divers Seamen, their Wives, Widows, and others to receive their Wages, meeting with many unexpected Objections to the Payment of the ſame, am oblig'd to addreſs your Lordſhips, as well for thoſe I ſerve, as others under the like Circumſtances; whoſe Caſes in ſome Particulars ſhall humbly lay before your Lordſhips, and pray Relief therein.</p>
+               <p n="1">I. Objection. <hi>Is Querying thoſe that are ſet Sick on Shoar.</hi>
+               </p>
+               <p>As for ſuch Queries, however His Majeſty's Service, and the Nations Safety might require it in time of War (to keep Mariners to their Duty;) an honourable Peace being now concluded, altho' by the ſtrict Rules of the Navy, ſuch Wages may be deny'd; yet there are ſeveral Motives and Rea<g ref="char:EOLhyphen"/>ſons for the taking off thoſe Queries.</p>
+               <p n="1">1. The Indigency, Poverty and Miſery of thoſe diſtreſſed Seamen, and their Families, were there no other Reaſon, ſeems no ſmall Motive to it; eſpecially conſidering
+'tis the Labourer's Hire, and his Families Bread.</p>
+               <p n="2">2. There were no ſuch Queries until the Year 1690, before which time every Man put on Shore ſick, was thereby diſcharged from the Service, and his Wages duly paid.</p>
+               <p n="3">3. The great Sickneſs which at, and ſince that time happen'd in the Fleet, was, and is the Foundation of thoſe Queries; the which indeed, conſi<g ref="char:EOLhyphen"/>dering alſo the great Mortality that has likewiſe attended His Majeſty's Service, ſhould rather be Motives for the removing of them.</p>
+               <p n="4">4. Many of the Perſons that have been put on Shore ſick, being ignorant of thoſe new Rules of the Navy, believed themſelves diſcharged as formerly.</p>
+               <p n="5">5. Many of them have been ſet on Shore ſick ſeveral times, and return'd to ſuch Ships, as ordered, but continuing weak and indiſpoſed, have at laſt repaired to their own Homes for Recovery.</p>
+               <p n="6">6. Others having been long Voyages and ſick on Board for many Months (ſeeing the Major part of their Aſſociates buried;) to ſuch, after they were ſet ſick on Shore, the thoughts of returning on Board have been dreadful, and deemed the only means to haſten their ends; which accordingly hap<g ref="char:EOLhyphen"/>pen'd to many that did return.</p>
+               <p n="7">7. It could not be expected that thoſe that have contracted Indiſpoſitions and Diſtempers, by unwholſon Proviſion, or malignant Air, ſhould (after a Months Refreſhment in ſick Quarters, or labouring 6 or 12 Months under their Maladies in an Hoſpita) be fit to return, or capable of doing His Majeſty Service; but the contrary is evident by the Multitude that died ſoon after their return on Board, and others that were again ſet ſick on Shore.</p>
+               <p>Laſtly, Such having faithfully ſerv'd His Majeſty to the imparing of their Healths, and hazard of their Lives; it ſeems not only juſt, but alſo for His Majeſty's Intereſt, and the Credit of his Service to grant them the Wages ſo hardly earn'd.</p>
+               <p>I hope what has been ſaid, with ſuch other Motives, as in Wiſdom, Juſtice and Charity, Your Lordſhips find in your own Breaſts, may prevail for the taking off all Queries.</p>
+               <p>But whatever Your Lordſhips ſhall pleaſe to direct as to the Queries in general, the Circumſtances of ome are ſuch, that a ſpeedy and general Order ſeems abſolutely neceſſary to remove the ſame.</p>
+               <list>
+                  <item>1. All thoſe that have been ſet on Shore ſick ſince the Peace concluded.</item>
+                  <item>2. Such as after Recovery entred on Board any of His Majeſty's Ships.</item>
+                  <item>3. Such as died in ſick Quarters, Hoſpitals, or Hoſpital-Ships.</item>
+                  <item>4. Such as have been wounded or hurt, and received Penſions, or Smart-Money for the ſame.</item>
+                  <item>5. Such as continued Six Months or upwards in ſick Quarters or Hoſpitals, or have been diſcharged thence incurable.</item>
+                  <item>6. Such as the Captains have diſcharged by Ticket, Sick, Lame, Blind, Infirm, or otherwiſe unfit for His Majeſty's Service, they alone being pro<g ref="char:EOLhyphen"/>per Judges of the ſame.</item>
+               </list>
+               <p>
+                  <hi>It may be objected, That Application being made with good Proof of the laſt mentioned Circumſtance, ſuch Queries may be remov'd.</hi>
+               </p>
+               <div type="consideration">
+                  <p>
+                     <hi>May it pleaſe your Lordſhips to conſider,</hi>
+                  </p>
+                  <p>The great Inconveniencies that attend ſuch particular Orders, which creates Tumult and Clamour at both Offices, gives advantage to many that ſolicit to exact great part of the Wages for their Aſſiſtance, puts the Poor to great Fatigue and Expence in Attendance, but principally the loſs of the opportunity of the Ships Payment; which may and have caus'd many to ſtay 2 or 3 Years for their Money, or ſell it for half the value.</p>
+                  <p>And indeed many of thoſe Queries might be prevented in making up the Pay-Books of each Ships, and of every Perſon under the Circumſtances aforeſaid, notice might be taken on the ſaid Books; the ſick Accounts being in the ſame Office.</p>
+                  <p>I ſhall ſay no more touching Queries, only that every DS ſhould be ſo accounted, ſeems contrary to the firſt intent of the ſame; which as I hum<g ref="char:EOLhyphen"/>bly conceive, were for Commanders to put on ſuch as did not return, and not on thoſe whom they ſee cauſe to diſcharge.</p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <head>Sect. II. <hi>Another Objection is, Perſons being made Run, ſome of whoſe Circumſtances may alſo claim your Lordſhips Conſideration.</hi>
+               </head>
+               <p n="1">1. Such as never deſign'd to deſert the Service, but being return'd from long Voyages, and the Ships to which they belong being either in Port or Dock, have adventur'd to ſtray from them, either to ſee their Friends in parts adjacent, or provide themſelves Apparel, but meeting with other Ships Companies have been Impreſt, and ſerved in ſuch Ships till diſcharg'd: Such therefore not deſerting the Service, ſhould not be puniſhed as Deſerters, but their R's taken off, and their Wages paid.</p>
+               <p n="2">2. Thoſe that have ſerved in His Majeſty's Ships, and have been turn'd over from one Ship to another, and after having ſerv'd ſome time in the later, their Tickets for the former have been delivered them, which Tickets by the Parties being ſet Sick or Shoar, or leaving that, or ſome other ſuc<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ling Ship, perhaps a Third or Fourth, and two or three Years after ſuch Tickets deliver'd, thoſe Tickets have been Q'd or Run, and the Wages <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>reby forfeited; with many other Circumſtances of the like nature too tedious to inſert.</p>
+               <div type="motives">
+                  <head>As Motives to take off the ſame I ſhall humbly offer,</head>
+                  <p>Such as have Tickets delivered them, ſeems in the Eye of Juſtice to have a good Title to their Wage.</p>
+                  <p>Thoſe Tickets are and have been eſteem'd as the King's Bonds or Bills of Exchange, and formerly paid at ſight.</p>
+                  <p>Many well affected People for promoting His Majeſty's Service and Intereſt, and in Charity to their dſtreſſed Neighbours, have ſupplied them Value of their Tickets,</p>
+                  <p>The Querying ſuch Tickets has unſpeakably reduc'd the Credit of the Navy, with reſpect to Wages; inſomuch that Tickets formerly ſold at 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Pound loſs, have of late beed ſold at 7
+<abbr>
+                        <hi>s.</hi>
+                     </abbr> and ſome at 10 or 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </p>
+                  <p>The Miſeries and diſtreſſed Condition of Seamens Families, whoſe Husbands and Relations are ſerving His Majeſty and the Nation, at Sea, being to periſh for want of Credit during their abſence; and thoſe who formerly reliev'd them, ſuffering great loſs and damage by thoſe Q's and R's, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olly diſcourag'd from continuing the ſame: The Poor therefore muſt inevitably periſh, unleſs relieved by the Alms of the Pariſh, whoſe burthens <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> are almoſt intolerable, the charge of the Poor being now three times more than before the War, and the major part of thoſe that receive are the
+<pb facs="tcp:171258:3"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Widows, and Families of ſuch as have ſerv'd His Majeſty during the late War: Much more might be ſaid for the taking off thoſe R's, yet ſhall <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>dd, that it is not inconſiſtent with Juſtice, but very agreeable to the Laws of God, Charity, Mercy, and Pity, and would not a little contribute <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Majeſty's Intereſt, the Glory of the Nation, a more chearful Contribution to Taxes, the Honour of your Lordſhips, the Relief of the Poor, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>evention of thoſe clamorous Tumults that attend this Honourable Board.</p>
+                  <p>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat has been ſaid may not prevail for the taking off thoſe R's for time paſt, my humble Requeſt is, That the like may be prevented for the future, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſeems eaſy, juſt and reaſonable, for thoſe Tickets may be kept by the Commanders, or in the Office, until the Party have ſuch a Right as not to <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the ſame, by ſerving ſuch reaſonable time as your Lordſhips ſhall direct, and thoſe Tickets when delivered to the Parties, or any other by their <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, to be good and valid to ſuch Perſons as have a Title to the ſame, which would reduce thoſe exorbitant Loſſes, and give good credit to Tick<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> formerly; and whatever other Puniſhment ſhall be judged meet to be inflicted on the Deſerter, beſides forfeiture of Wages due in the Ship he
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; the ſame may be corporal and not forfeitue of former Pay, by this the Tranſgreſſours will receive their Reward; by the other their Fami<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſt periſh unleſs relieved, and thoſe that ſupply them on the Credit of ſuch Tickets be great Sufferers; and indeed the delivering of ſuch Tick<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ilſt they are liable to be forfeited, do but impower the Party to impoſe on, and defraud the Innocent,</p>
+                  <p>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rpoſed ſomething touching the Pay, but fearing I have already tranſgreſs'd by Prolixity; for which with whatever elſe may render me obmoxi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your Lordſhips Cenſure, I humbly beg your Pardon: the deſign hereof being for the relief of the Poor, and free from all thought of Reflec<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſhall therefore only add, that the People were never better ſerved, His Majeſty's Affairs diſpatch'd, and Frauds prevented, than by the Clerks <gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ing the Pay, when they had liberty to receive Wages. And ſubſcribe, with all Dutiful Reſpects,</p>
+                  <closer>
+                     <signed>Your Lordſhips moſt Humble and Obedient Servant, <hi>John Dennis.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
